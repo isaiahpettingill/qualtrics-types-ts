@@ -1,6 +1,3 @@
-export = Qualtrics;
-export as namespace Qualtrics;
-
 declare namespace Qualtrics {
     namespace SurveyEngine {
       // Global page‐level methods (to be called in your addOnload, addOnReady, etc.)

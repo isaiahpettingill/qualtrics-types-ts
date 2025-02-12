@@ -1,9 +1,20 @@
 {
   "name": "qualtrics-types-unofficial",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Unofficial typescript declaration-only library stub for Qualtrics Survey JavaScript API",
-  "main": "index.js",
+  "main": "",
   "author": "isaiahpettingill",
   "license": "MIT",
-  "repository": { "type": "github", "url": "https://github.com/isaiahpettingill/qualtrics-types-ts" }
+  "types": "dist/qualtrics.d.ts",
+  "files": ["dist"],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/isaiahpettingill/qualtrics-types-ts"
+  },
+  "scripts": {
+  "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
 }
