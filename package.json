@@ -1,5 +1,5 @@
 {
-  "name": "@isaiahpettingill/qualtrics-types",
+  "name": "qualtrics-types-unofficial",
   "version": "1.0.0",
   "description": "Unofficial typescript declaration-only library stub for Qualtrics Survey JavaScript API",
   "main": "index.js",
