@@ -1,6 +1,6 @@
 {
   "name": "qualtrics-types-unofficial",
-  "version": "1.0.2",
+  "version": "1.0.2+1",
   "description": "Unofficial typescript declaration-only library stub for Qualtrics Survey JavaScript API",
   "main": "",
   "author": "isaiahpettingill",
