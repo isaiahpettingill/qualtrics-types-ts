@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Unofficial typescript declaration-only library stub for Qualtrics Survey JavaScript API",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "isaiahpettingill",
   "license": "MIT",
   "repository": { "type": "github", "url": "https://github.com/isaiahpettingill/qualtrics-types-ts" }
